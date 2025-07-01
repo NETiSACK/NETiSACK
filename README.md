@@ -5,6 +5,5 @@
 I'm currently developing "something" desktop/web applications based on Lua Language.
 
 - Learning `C`, `Lua`, `Lapis`, `qruiLua`, `PostgreSQL`
-- Learning Reverse Engineering on `USB Communication Protocol`
 - OS Environments `Windows 10 IoT LTSC`, `Debian 12 (WSL2)`
 - Editors of choice `Lite XL`, `Neovim`, `VSCode`
